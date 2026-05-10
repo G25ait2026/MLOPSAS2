@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pickle
+results/
+logs/
+wandb/
+distilbert-goodreads-genres/
+pdf_content.txt
+eval_report.json
+pdf_content.txt
+*.pyc
